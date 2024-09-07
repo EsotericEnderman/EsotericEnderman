@@ -1,4 +1,4 @@
-# EsotericSlime
+# Esoteric Slime
 
 ## Profile Overview
 
