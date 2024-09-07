@@ -1,4 +1,4 @@
-# Slqmy
+# EsotericSlime
 
 ## Profile Overview
 
