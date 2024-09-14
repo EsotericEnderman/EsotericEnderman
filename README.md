@@ -1,4 +1,4 @@
-# The Esoteric Enderman
+# Esoteric Enderman
 
 ## Profile Overview
 
