@@ -1,1 +1,1 @@
-dev.esoteric_enderman
+dev.enderman
