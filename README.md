@@ -7,16 +7,16 @@
 ## <p align="center"> Contact </p>
 
 <p align="center">
-<table>
-  <tr>
-    <td align="left">💬 <b>Discord</b>:</td>
-    <td><code>esotericenderman</code></td>
-  </tr>
-  <tr>
-    <td align="left">📧 <b>Email</b>:</td>
-    <td><code>esotericenderman@gmail.com</code></td>
-  </tr>
-</table>
+    <table>
+        <tr>
+            <td align="left">💬 <b>Discord</b>:</td>
+            <td><code>esotericenderman</code></td>
+        </tr>
+        <tr>
+            <td align="left">📧 <b>Email</b>:</td>
+            <td><code>esotericenderman@gmail.com</code></td>
+        </tr>
+    </table>
 </p>
 
 ## <p align="center"> Links </p>
