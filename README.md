@@ -10,9 +10,9 @@
 
 <div align="center">
 
-<img src="Assets/Badges/Discord.svg"> | <code>@esotericenderman</code>
+<a href="https://www.discord.com/channels/@me"><img src="Assets/Badges/Discord.svg"></a> | <code>@esotericenderman</code>
 :--- | :---
-<img src="Assets/Badges/Gmail.svg"> | <code>esotericenderman@gmail.com</code>
+<a href="https://www.gmail.com/"><img src="Assets/Badges/Gmail.svg"></a> | <code>esotericenderman@gmail.com</code>
 
 </div>
 
