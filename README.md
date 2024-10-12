@@ -10,9 +10,9 @@
 
 <div align="center">
 
-💬 <b>Discord</b>: | <code>@esotericenderman</code>
+<img src="Assets/Badges/Discord.svg"> | <code>@esotericenderman</code>
 :--- | :---
-📧 <b>Email</b>: | <code>esotericenderman@gmail.com</code>
+<img src="Assets/Badges/Gmail.svg"> | <code>esotericenderman@gmail.com</code>
 
 </div>
 
