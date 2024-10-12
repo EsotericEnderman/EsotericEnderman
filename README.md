@@ -4,9 +4,9 @@
 
 ## <p align="center"> Contact </p>
 
-<p align="center"> &bull; 💬 Discord: <code>esotericenderman</code> </p>
+<p align="center"> &bull; 💬 <b>Discord</b>: <code>esotericenderman</code> </p>
 
-<p align="center"> &bull; 📧 Email: <code>esotericenderman@gmail.com</code> </p>
+<p align="center"> &bull; 📧 <b>Email</b>: <code>esotericenderman@gmail.com</code> </p>
 
 ## <p align="center"> Links </p>
 
