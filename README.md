@@ -10,11 +10,17 @@
 ## Links
 
 - 💻 [GitHub](https://www.github.com/EsotericEnderman)
+
 - 📦 [npm](https://www.npmjs.com/~esotericenderman)
+
 - 🧱 [SpigotMC](https://www.spigotmc.org/members/esotericenderman.2123396/)
 
+___
+
 - 📹 [YouTube](https://www.youtube.com/@esotericenderman)
+
 - ⛏️ [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
+
 - 🎮 [Steam](https://steamcommunity.com/id/esotericenderman/)
 
 ### Friends
