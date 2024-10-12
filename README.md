@@ -10,8 +10,9 @@
 
 <div align="center">
 
-| <a href="https://github.com/stars/EsotericEnderman/lists/priority">Projects I am currently working on</a> |
+| Projects |
 | :----------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/stars/EsotericEnderman/lists/priority">Projects I am currently working on</a> |
 | <a href="https://github.com/stars/EsotericEnderman/lists/priority">Projects I plan to work on</a> |
 
 </div>
