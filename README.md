@@ -4,6 +4,7 @@
 
 ## Links
 
+- 💻 [GitHub](https://www.github.com/EsotericEnderman)
 - 📦 [npm](https://www.npmjs.com/~esotericenderman)
 
 - 💬 Discord: `esotericenderman`

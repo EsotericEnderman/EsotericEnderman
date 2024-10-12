@@ -2,6 +2,7 @@
 | Your local enderman, interested in math, coding, and video games.
 
 𝗟𝗶𝗻𝗸𝘀:
+• 💻 𝗚𝗶𝘁𝗛𝘂𝗯: https://www.github.com/EsotericEnderman
 • 📦 𝗻𝗽𝗺: https://www.npmjs.com/~esotericenderman
 
 • 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
