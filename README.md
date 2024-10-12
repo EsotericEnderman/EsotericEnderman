@@ -4,8 +4,6 @@
 
 <p align="center"><a href="https://www.github.com/EsotericEnderman"><img alt="My profile picture" src="Assets/Profile Picture.png" width="250" height="250"></a></p>
 
-<p align="center">📄 Check out my 👥 <b><a href="https://www.github.com/EsotericOrganisation">Esoteric Organisation</a></b>!</p>
-
 <div align="center">
 
 | Projects |
@@ -15,6 +13,8 @@
 | <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a> |
 
 </div>
+
+<p align="center">📄 Check out my 👥 <b><a href="https://www.github.com/EsotericOrganisation">Esoteric Organisation</a></b>!</p>
 
 ## <p align="center">✉️ Contact</p>
 
