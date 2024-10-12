@@ -10,9 +10,9 @@
 
 | Projects |
 | :----------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/stars/EsotericEnderman/lists/priority">Projects I am currently working on</a> |
-| <a href="https://github.com/stars/EsotericEnderman/lists/to-do">Projects I plan to work on</a> |
-| <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Projects I have abandoned</a> |
+| <a href="https://github.com/stars/EsotericEnderman/lists/priority">Work-in-progress</a> |
+| <a href="https://github.com/stars/EsotericEnderman/lists/to-do">Planned/development paused</a> |
+| <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a> |
 
 </div>
 
