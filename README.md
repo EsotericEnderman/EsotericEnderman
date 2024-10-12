@@ -6,6 +6,7 @@
 
 - 📹 [YouTube](https://www.youtube.com/@esotericenderman)
 - 🧱 [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
+- 🎮 [Steam](https://steamcommunity.com/id/esotericenderman/)
 
 - 💬 Discord: `esotericenderman`
 - 📧 Email: `esotericenderman@gmail.com`
