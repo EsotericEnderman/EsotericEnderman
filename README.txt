@@ -1,7 +1,7 @@
-𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗘𝗻𝗱𝗲𝗿𝗺𝗮𝗻
-Your local enderman, interested in math, coding, and video games.
+🔮 𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗘𝗻𝗱𝗲𝗿𝗺𝗮𝗻
+🪄 Your local enderman, interested in 🧠 𝗺𝗮𝘁𝗵, 💻 𝗰𝗼𝗱𝗶𝗻𝗴, and 🎮 𝘃𝗶𝗱𝗲𝗼 𝗴𝗮𝗺𝗲𝘀.
 
-Check out my 𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻 @ https://www.github.com/EsotericOrganisation.
+📄 Check out my 👥 𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻 @ https://www.github.com/EsotericOrganisation.
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁:
 • 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: @esotericenderman
