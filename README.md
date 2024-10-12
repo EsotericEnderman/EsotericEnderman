@@ -1,6 +1,6 @@
 # <p align="center"> 🔮 Esoteric Enderman </p>
 
-<p align="center"> Your local enderman, interested in 🧠 math, 💻 coding, and 🎮 video games. </p>
+<p align="center"> Your local enderman, interested in 🧠 <b>math</b>, 💻 <b>coding</b>, and 🎮 <b>video games</b>. </p>
 
 <p align="center"> <img alt="My profile picture." src="Assets/Profile Picture.png" width="250" height="250" > </p>
 
