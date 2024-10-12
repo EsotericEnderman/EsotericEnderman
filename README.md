@@ -5,6 +5,7 @@
 ## Contact
 
 - 💬 Discord: `esotericenderman`
+
 - 📧 Email: `esotericenderman@gmail.com`
 
 ## Links
