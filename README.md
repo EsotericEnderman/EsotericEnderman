@@ -6,8 +6,6 @@
 
 <p align="center">📄 Check out my 👥 <b><a href="https://www.github.com/EsotericOrganisation">Esoteric Organisation</a></b>!</p>
 
-## <p align="center"> ⚙️ Projects </p>
-
 <div align="center">
 
 | Projects |
