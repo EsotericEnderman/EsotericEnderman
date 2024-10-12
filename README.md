@@ -2,6 +2,10 @@
 
 > <p align="center"> Your local enderman, interested in math, coding, and video games. </p>
 
+<picture>
+  <img alt="My profile picture." src="Assets/Profile Picture.png">
+</picture>
+
 ## <p align="center"> Contact </p>
 
 <p align="center"> &bull; 💬 <b>Discord</b>: <code>esotericenderman</code> </p>
