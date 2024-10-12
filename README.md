@@ -6,16 +6,13 @@
 
 ## <p align="center"> Contact </p>
 
-<p align="center">
-    <table>
-        <tr>
-            <td align="left">💬 <b>Discord</b>: <code>esotericenderman</code></td>
-        </tr>
-        <tr>
-            <td align="left">📧 <b>Email</b>: <code>esotericenderman@gmail.com</code></td>
-        </tr>
-    </table>
-</p>
+<div align="center">
+
+💬 <b>Discord</b>: | <code>esotericenderman</code>
+:--- | :---
+📧 <b>Email</b>: | <code>esotericenderman@gmail.com</code>
+
+</div>
 
 ## <p align="center"> Links </p>
 
