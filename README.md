@@ -4,8 +4,8 @@
 
 ## <p align="center"> Contact </p>
 
-<div style="text-align: center;">
-    <div style="display: inline-block; text-align: left;">
+<div text-align="center">
+    <div display="inline-block" text-align="left">
         &bull; 💬 <b>Discord</b>: <code>esotericenderman</code> <br />
         &bull; 📧 <b>Email</b>: <code>esotericenderman@gmail.com</code><br />
     </div>
