@@ -4,6 +4,7 @@
 𝗟𝗶𝗻𝗸𝘀:
 • 💻 𝗚𝗶𝘁𝗛𝘂𝗯: https://www.github.com/EsotericEnderman
 • 📦 𝗻𝗽𝗺: https://www.npmjs.com/~esotericenderman
+• 🧱 𝗦𝗽𝗶𝗴𝗼𝘁𝗠𝗖: https://www.spigotmc.org/members/esotericenderman.2123396/
 
 • 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
 • 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com

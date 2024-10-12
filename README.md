@@ -6,6 +6,7 @@
 
 - 💻 [GitHub](https://www.github.com/EsotericEnderman)
 - 📦 [npm](https://www.npmjs.com/~esotericenderman)
+- 🧱 [SpigotMC](https://www.spigotmc.org/members/esotericenderman.2123396/)
 
 - 💬 Discord: `esotericenderman`
 - 📧 Email: `esotericenderman@gmail.com`
