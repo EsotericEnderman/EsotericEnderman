@@ -7,6 +7,8 @@
 - [YouTube](https://www.youtube.com/@esotericenderman)
 - [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
 
+- Discord: `esotericenderman`
+
 ### Friends
 
 - [@rolyPolyVole](https://github.com/rolyPolyVole)
