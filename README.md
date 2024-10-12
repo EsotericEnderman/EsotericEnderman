@@ -29,6 +29,6 @@
 
 ### <p align="center"> Friends </p>
 
-<p align = "center"> <a href="https://github.com/rolyPolyVole"> <img src="https://github.com/rolyPolyVole.png" width="100" height="100" > </a> </p>
+<p align = "center"> <a href="https://github.com/rolyPolyVole"> <img src="https://github.com/rolyPolyVole.png" width="75" height="75" > </a> </p>
 
 <sup>Unless stated otherwise, all of my code is licensed under the <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works and content are licensed under the <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup>
