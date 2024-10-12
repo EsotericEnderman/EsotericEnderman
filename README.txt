@@ -9,7 +9,7 @@
 • 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
 
 • 📹 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@esotericenderman
-• 🧱 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁: https://namemc.com/profile/EsotericEnderman.1
+• ⛏️ 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁: https://namemc.com/profile/EsotericEnderman.1
 • 🎮 𝗦𝘁𝗲𝗮𝗺: https://steamcommunity.com/id/esotericenderman/
 
 𝗙𝗿𝗶𝗲𝗻𝗱𝘀:
