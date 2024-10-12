@@ -1,4 +1,4 @@
-# <p align="center"> Esoteric Enderman </p>
+# <p align="center"> 🔮 Esoteric Enderman </p>
 
 <p align="center"> Your local enderman, interested in math, coding, and video games. </p>
 
