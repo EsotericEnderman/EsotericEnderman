@@ -32,4 +32,4 @@ ___
 
 ### <p align="center"> Friends </p>
 
-- [@rolyPolyVole](https://github.com/rolyPolyVole)
+<p align = "center"> <a href="https://github.com/rolyPolyVole"> <img src="https://github.com/rolyPolyVole.png" width="100" height="100" > </a> </p>
