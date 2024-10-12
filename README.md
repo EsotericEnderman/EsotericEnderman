@@ -25,6 +25,8 @@
     <a href="https://steamcommunity.com/id/esotericenderman/"><img src="Assets/Badges/Steam.svg"></a>
 </p>
 
+---
+
 ### <p align="center"> Friends </p>
 
 <p align = "center"> <a href="https://github.com/rolyPolyVole"> <img src="https://github.com/rolyPolyVole.png" width="100" height="100" > </a> </p>
