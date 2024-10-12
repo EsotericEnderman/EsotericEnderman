@@ -5,6 +5,7 @@
 ## Links
 
 - [YouTube](https://www.youtube.com/@esotericenderman)
+- [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
 
 ### Friends
 
