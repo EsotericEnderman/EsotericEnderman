@@ -2,7 +2,7 @@
 
 > <p align="center"> Your local enderman, interested in math, coding, and video games. </p>
 
-<img alt="My profile picture." src="Assets/Profile Picture.png">
+<p align="center"> <img alt="My profile picture." src="Assets/Profile Picture.png"> </p>
 
 ## <p align="center"> Contact </p>
 
