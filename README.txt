@@ -2,14 +2,14 @@
 | Your local enderman, interested in math, coding, and video games.
 
 𝗟𝗶𝗻𝗸𝘀:
-• 📹 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@esotericenderman
-• 🧱 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁: https://namemc.com/profile/EsotericEnderman.1
-• 🎮 𝗦𝘁𝗲𝗮𝗺: https://steamcommunity.com/id/esotericenderman/
-
 • 📦 𝗻𝗽𝗺: https://www.npmjs.com/~esotericenderman
 
 • 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
 • 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
+
+• 📹 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@esotericenderman
+• 🧱 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁: https://namemc.com/profile/EsotericEnderman.1
+• 🎮 𝗦𝘁𝗲𝗮𝗺: https://steamcommunity.com/id/esotericenderman/
 
 𝗙𝗿𝗶𝗲𝗻𝗱𝘀:
 • @𝗿𝗼𝗹𝘆𝗣𝗼𝗹𝘆𝗩𝗼𝗹𝗲: https://github.com/rolyPolyVole

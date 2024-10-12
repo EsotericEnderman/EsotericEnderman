@@ -4,14 +4,14 @@
 
 ## Links
 
-- 📹 [YouTube](https://www.youtube.com/@esotericenderman)
-- 🧱 [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
-- 🎮 [Steam](https://steamcommunity.com/id/esotericenderman/)
-
 - 📦 [npm](https://www.npmjs.com/~esotericenderman)
 
 - 💬 Discord: `esotericenderman`
 - 📧 Email: `esotericenderman@gmail.com`
+
+- 📹 [YouTube](https://www.youtube.com/@esotericenderman)
+- 🧱 [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
+- 🎮 [Steam](https://steamcommunity.com/id/esotericenderman/)
 
 ### Friends
 
