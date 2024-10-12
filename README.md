@@ -16,7 +16,10 @@
 
 ## <p align="center"> Links </p>
 
-<p align="center"> <a href="https://www.github.com/EsotericEnderman"> <img src="Assets/Badges/GitHub.svg"> </a> </p>
+<p align="center">
+    <a href="https://www.github.com/EsotericEnderman"> <img src="Assets/Badges/GitHub.svg"> </a>
+    <a href="https://www.npmjs.com/~esotericenderman"> <img src="Assets/Badges/npm.svg"> </a>
+</p>
 
 - 📦 [npm](https://www.npmjs.com/~esotericenderman)
 
