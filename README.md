@@ -24,6 +24,12 @@
 
 ___
 
+<p align="center">
+    <a href="https://www.youtube.com/@esotericenderman"> <img src="Assets/Badges/YouTube.svg"> </a>
+    <a href="https://namemc.com/profile/EsotericEnderman.1"> <img src="Assets/Badges/NameMC.svg"> </a>
+    <a href="https://steamcommunity.com/id/esotericenderman/"> <img src="Assets/Badges/Steam.svg"> </a>
+</p>
+
 - 📹 [YouTube](https://www.youtube.com/@esotericenderman)
 
 - ⛏️ [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
