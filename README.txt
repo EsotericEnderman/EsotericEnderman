@@ -1,18 +1,15 @@
-# Esoteric Enderman
+𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗘𝗻𝗱𝗲𝗿𝗺𝗮𝗻
+| Your local enderman, interested in math, coding, and video games.
 
-> Your local enderman, interested in math, coding, and video games.
+𝗟𝗶𝗻𝗸𝘀:
+• 📹 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@esotericenderman
+• 🧱 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁: https://namemc.com/profile/EsotericEnderman.1
+• 🎮 𝗦𝘁𝗲𝗮𝗺: https://steamcommunity.com/id/esotericenderman/
 
-## Links
+• 📦 𝗻𝗽𝗺: https://www.npmjs.com/~esotericenderman
 
-- 📹 [YouTube](https://www.youtube.com/@esotericenderman)
-- 🧱 [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
-- 🎮 [Steam](https://steamcommunity.com/id/esotericenderman/)
+• 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
+• 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
 
-- 📦 [npm](https://www.npmjs.com/~esotericenderman)
-
-- 💬 Discord: `esotericenderman`
-- 📧 Email: `esotericenderman@gmail.com`
-
-### Friends
-
-- [@rolyPolyVole](https://github.com/rolyPolyVole)
+𝗙𝗿𝗶𝗲𝗻𝗱𝘀:
+• @𝗿𝗼𝗹𝘆𝗣𝗼𝗹𝘆𝗩𝗼𝗹𝗲: https://github.com/rolyPolyVole
