@@ -8,6 +8,7 @@
 - [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
 
 - Discord: `esotericenderman`
+- Email: `esotericenderman@gmail.com`
 
 ### Friends
 
