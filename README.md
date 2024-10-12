@@ -1,6 +1,6 @@
 # <p style="text-align:center;"> Esoteric Enderman
 
-> Your local enderman, interested in math, coding, and video games.
+> <p style="text-align:center;"> Your local enderman, interested in math, coding, and video games.
 
 ## <p style="text-align:center;"> Contact
 
