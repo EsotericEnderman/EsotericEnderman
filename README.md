@@ -19,11 +19,8 @@
 <p align="center">
     <a href="https://www.github.com/EsotericEnderman"> <img src="Assets/Badges/GitHub.svg"> </a>
     <a href="https://www.npmjs.com/~esotericenderman"> <img src="Assets/Badges/npm.svg"> </a>
+    <a href="https://www.spigotmc.org/members/esotericenderman.2123396/"> <img src="Assets/Badges/SpigotMC.svg"> </a>
 </p>
-
-- 📦 [npm](https://www.npmjs.com/~esotericenderman)
-
-- 🧱 [SpigotMC](https://www.spigotmc.org/members/esotericenderman.2123396/)
 
 ___
 
