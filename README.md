@@ -2,7 +2,7 @@
 
 <p align="center"> 🪄 Your local enderman, interested in 🧠 <b>math</b>, 💻 <b>coding</b>, and 🎮 <b>video games</b>. </p>
 
-<p align="center">📄 Check out the 👥 <b><a href="https://www.github.com/EsotericOrganisation">Esoteric Organisation</a></b>! </p>
+<p align="center">📄 Check out my 👥 <b><a href="https://www.github.com/EsotericOrganisation">Esoteric Organisation</a></b>! </p>
 
 <p align="center"> <img alt="My profile picture." src="Assets/Profile Picture.png" width="250" height="250" > </p>
 
