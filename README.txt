@@ -1,5 +1,5 @@
 𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗘𝗻𝗱𝗲𝗿𝗺𝗮𝗻
-| Your local enderman, interested in math, coding, and video games.
+Your local enderman, interested in math, coding, and video games.
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁:
 • 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: @esotericenderman
