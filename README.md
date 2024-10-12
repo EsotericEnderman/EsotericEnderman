@@ -33,4 +33,4 @@
 
 <p align="center"><a href="https://github.com/rolyPolyVole"><img src="https://github.com/rolyPolyVole.png" width="45" height="45" alt="rolyPolyVole's profile picture"></a></p>
 
-<p align="center"><sup>Unless stated otherwise, all of my software is licensed under the <img src="Assets/Badges/MIT License.svg" width="50"> <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <img src="Assets/Badges/CC-BY-4.0 License.png" width="50"> <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
+<p align="center"><sup>Unless stated otherwise, all of my software is licensed under the <a href="Assets/Licenses/MIT License.md"><img src="Assets/Badges/MIT License.svg" width="50"></a> <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="Assets/Badges/CC-BY-4.0 License.png"><img src="Assets/Badges/CC-BY-4.0 License.png" width="50"></a> <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
