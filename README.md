@@ -6,7 +6,7 @@
 
 <div align="center">
 
-| ⚙️ Projects |
+| ⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a> |
 | :----------------------------------------------------------------------------------------------------- |
 | 🏗️ <a href="https://github.com/stars/EsotericEnderman/lists/priority">Work-in-progress</a> |
 | ⏳ <a href="https://github.com/stars/EsotericEnderman/lists/to-do">Planned</a> |
