@@ -16,7 +16,7 @@
 
 ## <p align="center"> Links </p>
 
-- 💻 [GitHub](https://www.github.com/EsotericEnderman)
+<p align="center"> <a href="https://www.github.com/EsotericEnderman"> <img src="Assets/Badges/GitHub.svg"> </a> </p>
 
 - 📦 [npm](https://www.npmjs.com/~esotericenderman)
 
