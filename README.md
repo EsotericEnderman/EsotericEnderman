@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://www.github.com/EsotericEnderman"><img alt="My profile picture" src="Assets/Profile Picture.png" width="250" height="250"></a></p>
 
-## <p align="center">Contact</p>
+## <p align="center">✉️ Contact</p>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## <p align="center">Links</p>
+## <p align="center">🔗 Links</p>
 
 <p align="center">
     <a href="https://www.github.com/EsotericEnderman"><img src="Assets/Badges/GitHub.svg" alt="GitHub"></a>
@@ -29,7 +29,7 @@
 
 ---
 
-### <p align="center">Friends</p>
+### <p align="center">🤝 Friends</p>
 
 <p align="center"><a href="https://github.com/rolyPolyVole"><img src="https://github.com/rolyPolyVole.png" width="45" height="45" alt="rolyPolyVole's profile picture"></a></p>
 
