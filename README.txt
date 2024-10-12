@@ -2,7 +2,7 @@
 | Your local enderman, interested in math, coding, and video games.
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁:
-• 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
+• 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: @esotericenderman
 • 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
 
 𝗟𝗶𝗻𝗸𝘀:

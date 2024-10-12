@@ -8,7 +8,7 @@
 
 <div align="center">
 
-💬 <b>Discord</b>: | <code>esotericenderman</code>
+💬 <b>Discord</b>: | <code>@esotericenderman</code>
 :--- | :---
 📧 <b>Email</b>: | <code>esotericenderman@gmail.com</code>
 
