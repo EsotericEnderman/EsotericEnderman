@@ -1,14 +1,14 @@
-# <p style="text-align:center;"> Esoteric Enderman
+# <p style="text-align:center;"> Esoteric Enderman </p>
 
-> <p style="text-align:center;"> Your local enderman, interested in math, coding, and video games.
+> <p style="text-align:center;"> Your local enderman, interested in math, coding, and video games. </p>
 
-## <p style="text-align:center;"> Contact
+## <p style="text-align:center;"> Contact </p>
 
 - 💬 Discord: `esotericenderman`
 
 - 📧 Email: `esotericenderman@gmail.com`
 
-## <p style="text-align:center;"> Links
+## <p style="text-align:center;"> Links </p>
 
 - 💻 [GitHub](https://www.github.com/EsotericEnderman)
 
@@ -24,6 +24,6 @@ ___
 
 - 🎮 [Steam](https://steamcommunity.com/id/esotericenderman/)
 
-### <p style="text-align:center;"> Friends
+### <p style="text-align:center;"> Friends </p>
 
 - [@rolyPolyVole](https://github.com/rolyPolyVole)
