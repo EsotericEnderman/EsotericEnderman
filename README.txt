@@ -1,13 +1,14 @@
 𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗘𝗻𝗱𝗲𝗿𝗺𝗮𝗻
 | Your local enderman, interested in math, coding, and video games.
 
+𝗖𝗼𝗻𝘁𝗮𝗰𝘁:
+• 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
+• 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
+
 𝗟𝗶𝗻𝗸𝘀:
 • 💻 𝗚𝗶𝘁𝗛𝘂𝗯: https://www.github.com/EsotericEnderman
 • 📦 𝗻𝗽𝗺: https://www.npmjs.com/~esotericenderman
 • 🧱 𝗦𝗽𝗶𝗴𝗼𝘁𝗠𝗖: https://www.spigotmc.org/members/esotericenderman.2123396/
-
-• 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: esotericenderman
-• 📧 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
 
 • 📹 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@esotericenderman
 • ⛏️ 𝗠𝗶𝗻𝗲𝗰𝗿𝗮𝗳𝘁: https://namemc.com/profile/EsotericEnderman.1
