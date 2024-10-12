@@ -4,11 +4,11 @@
 
 ## Links
 
-- [YouTube](https://www.youtube.com/@esotericenderman)
-- [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
+- 📹 [YouTube](https://www.youtube.com/@esotericenderman)
+- 🧱 [Minecraft](https://namemc.com/profile/EsotericEnderman.1)
 
-- Discord: `esotericenderman`
-- Email: `esotericenderman@gmail.com`
+- 💬 Discord: `esotericenderman`
+- 📧 Email: `esotericenderman@gmail.com`
 
 ### Friends
 
