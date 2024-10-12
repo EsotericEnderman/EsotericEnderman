@@ -2,7 +2,7 @@
 
 <p align="center"> Your local enderman, interested in math, coding, and video games. </p>
 
-<p align="center"> <img alt="My profile picture." src="Assets/Profile Picture.png" width="250" height="250" > </p>
+<p align="center"> <img alt="My profile picture." src="https://s.namemc.com/3d/skin/body.png?id=a4753087684e3126&model=classic&theta=30&phi=21&time=934.51&width=600&height=800" width="250" > </p>
 
 ## <p align="center"> Contact </p>
 
