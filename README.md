@@ -6,6 +6,15 @@
 
 <p align="center">📄 Check out my 👥 <b><a href="https://www.github.com/EsotericOrganisation">Esoteric Organisation</a></b>!</p>
 
+## <p align="center"> ⚙️ Projects </p>
+
+<div align="center">
+
+| <a href="https://github.com/stars/EsotericEnderman/lists/priority">Projects I am currently working on</a> | <a href="https://github.com/stars/EsotericEnderman/lists/priority">Projects I plan to work on</a>          |
+| :----------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+
+</div>
+
 ## <p align="center">✉️ Contact</p>
 
 <div align="center">
