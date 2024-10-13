@@ -6,7 +6,7 @@ Unless stated otherwise, all of my software is licensed under the 𝗠𝗜𝗧 �
 • 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: @esotericenderman
 • 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
 
-🔗 Links
+🔗 𝗟𝗶𝗻𝗸𝘀
 
 https://www.youtube.com/@esotericenderman
 https://steamcommunity.com/id/esotericenderman/
