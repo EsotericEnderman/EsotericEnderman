@@ -1,4 +1,5 @@
 [b]🔮 Esoteric Enderman[/b]
+[hr]
 
 [img]Assets/Profile Picture.png[/img]
 
