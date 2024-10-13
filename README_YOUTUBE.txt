@@ -3,3 +3,6 @@
 📄 Check out my 👥 𝗘𝘀𝗼𝘁𝗲𝗿𝗶𝗰 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻 @ https://www.github.com/EsotericOrganisation.
 
 Unless stated otherwise, all of my software is licensed under the 𝗠𝗜𝗧 𝗹𝗶𝗰𝗲𝗻𝘀𝗲 and all other works are licensed under the 𝗖𝗖-𝗕𝗬-𝟰.𝟬 𝗹𝗶𝗰𝗲𝗻𝘀𝗲.
+They can be found here:
+• 𝗠𝗜𝗧 𝗹𝗶𝗰𝗲𝗻𝘀𝗲: https://github.com/EsotericEnderman/EsotericEnderman/blob/main/Assets/Licenses/MIT%20License.md
+• 𝗖𝗖-𝗕𝗬-𝟰.𝟬 𝗹𝗶𝗰𝗲𝗻𝘀𝗲: https://github.com/EsotericEnderman/EsotericEnderman/blob/main/Assets/Licenses/CC-BY-4.0%20License.md
