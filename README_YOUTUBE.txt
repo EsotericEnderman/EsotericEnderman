@@ -9,3 +9,6 @@ Unless stated otherwise, all of my software is licensed under the 𝗠𝗜𝗧 �
 ✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 • 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: @esotericenderman
 • 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
+
+🤝 𝗙𝗿𝗶𝗲𝗻𝗱𝘀
+• @rolyPolyVole
