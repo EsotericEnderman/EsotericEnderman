@@ -8,11 +8,7 @@ Unless stated otherwise, all of my software is licensed under the 𝗠𝗜𝗧 �
 
 🔗 Links
 
-https://www.github.com/EsotericEnderman
-https://www.npmjs.com/~esotericenderman
-https://www.spigotmc.org/members/esotericenderman.2123396/
 https://www.youtube.com/@esotericenderman
-https://namemc.com/profile/EsotericEnderman.1
 https://steamcommunity.com/id/esotericenderman/
 
 🤝 𝗙𝗿𝗶𝗲𝗻𝗱𝘀
