@@ -1,8 +1,8 @@
 [b]🔮 Esoteric Enderman[/b]
 
-<a href="https://www.github.com/EsotericEnderman">[img]Assets/Profile Picture.png[/img]</a>
+[img]Assets/Profile Picture.png[/img]
 
-🪄 Your local enderman, interested in 🧠 <b>math</b>, 💻 <b>coding</b>, and 🎮 <b>video games</b>.
+🪄 Your local enderman, interested in 🧠 [b]math[/b], 💻 [b]coding[/b], and 🎮 [b]video games[/b].
 
 | ⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a>                                  |
 | :-------------------------------------------------------------------------------------------------------------- |
