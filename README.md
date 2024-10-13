@@ -6,13 +6,13 @@
 
 <div align="center">
 
-| ⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a> |
-| :----------------------------------------------------------------------------------------------------- |
-| 🏗️ <a href="https://github.com/stars/EsotericEnderman/lists/priority">Work-in-progress</a> |
-| 🔃 <a href="https://github.com/stars/EsotericEnderman/lists/maintaned">Maintained</a> |
-| ⏳ <a href="https://github.com/stars/EsotericEnderman/lists/to-do">Planned</a> |
+| ⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a>                                  |
+| :-------------------------------------------------------------------------------------------------------------- |
+| 🏗️ <a href="https://github.com/stars/EsotericEnderman/lists/priority">Work-in-progress</a>                      |
+| 🔃 <a href="https://github.com/stars/EsotericEnderman/lists/maintaned">Maintained</a>                           |
+| ⏳ <a href="https://github.com/stars/EsotericEnderman/lists/to-do">Planned</a>                                  |
 | ✅ <a href="https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=">Finished</a> |
-| 📜 <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a> |
+| 📜 <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a>                            |
 
 </div>
 
