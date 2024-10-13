@@ -1,4 +1,4 @@
-# [dohtml]<b>🔮 Esoteric Enderman</b>[/dohtml]
+# 🔮 Esoteric Enderman
 
 <a href="https://www.github.com/EsotericEnderman">[img]Assets/Profile Picture.png[/img]</a>
 
