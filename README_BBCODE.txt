@@ -4,14 +4,29 @@
 
 🪄 Your local enderman, interested in 🧠 [b]math[/b], 💻 [b]coding[/b], and 🎮 [b]video games[/b].
 
-| ⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a>                                  |
-| :-------------------------------------------------------------------------------------------------------------- |
-| 🏗️ <a href="https://github.com/stars/EsotericEnderman/lists/work-in-progress">Work-in-progress</a>              |
-| 🔃 <a href="https://github.com/stars/EsotericEnderman/lists/maintained">Maintained</a>                          |
-| ⏳ <a href="https://github.com/stars/EsotericEnderman/lists/planned">Planned</a>                                |
-| ✅ <a href="https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=">Finished</a> |
-| 🏆 <a href="https://github.com/stars/EsotericEnderman/lists/contribution">Contributions</a>                     |
-| 📜 <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a>                            |
+[table]
+[tr]
+  [td]⚙️ [url=https://github.com/EsotericEnderman?tab=repositories][b]Projects[/b][/url][/td]
+[/tr]
+[tr]
+  [td]🏗️ [url=https://github.com/stars/EsotericEnderman/lists/work-in-progress]Work-in-progress[/url][/td]
+[/tr]
+[tr]
+  [td]🔃 [url=https://github.com/stars/EsotericEnderman/lists/maintained]Maintained[/url][/td]
+[/tr]
+[tr]
+  [td]⏳ [url=https://github.com/stars/EsotericEnderman/lists/planned]Planned[/url][/td]
+[/tr]
+[tr]
+  [td]✅ [url=https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=]Finished[/url][/td]
+[/tr]
+[tr]
+  [td]🏆 [url=https://github.com/stars/EsotericEnderman/lists/contribution]Contributions[/url][/td]
+[/tr]
+[tr]
+  [td]📜 [url=https://github.com/stars/EsotericEnderman/lists/abandoned]Abandoned[/url][/td]
+[/tr]
+[/table]
 
 <sup>Unless stated otherwise, all of my software is licensed under the <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup>
 
