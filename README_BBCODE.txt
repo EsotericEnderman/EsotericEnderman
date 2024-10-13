@@ -1,4 +1,4 @@
-# 🔮 Esoteric Enderman
+[b]🔮 Esoteric Enderman[/b]
 
 <a href="https://www.github.com/EsotericEnderman">[img]Assets/Profile Picture.png[/img]</a>
 
