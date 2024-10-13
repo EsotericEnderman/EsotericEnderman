@@ -8,8 +8,8 @@ Unless stated otherwise, all of my software is licensed under the 𝗠𝗜𝗧 �
 
 🔗 𝗟𝗶𝗻𝗸𝘀
 
-https://www.youtube.com/@esotericenderman
-https://steamcommunity.com/id/esotericenderman/
+• 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@esotericenderman
+• 𝗦𝘁𝗲𝗮𝗺: https://steamcommunity.com/id/esotericenderman/
 
 🤝 𝗙𝗿𝗶𝗲𝗻𝗱𝘀
 • @rolyPolyVole
