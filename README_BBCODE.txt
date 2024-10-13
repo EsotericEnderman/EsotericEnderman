@@ -1,6 +1,6 @@
 # 🔮 Esoteric Enderman
 
-<a href="https://www.github.com/EsotericEnderman">[img alt="My profile picture" ]Assets/Profile Picture.png[/img]</a>
+<a href="https://www.github.com/EsotericEnderman">[img]Assets/Profile Picture.png[/img]</a>
 
 🪄 Your local enderman, interested in 🧠 <b>math</b>, 💻 <b>coding</b>, and 🎮 <b>video games</b>.
 
