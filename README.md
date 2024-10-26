@@ -1,4 +1,4 @@
-# <p align="center">🔮 Esoteric Enderman</p>
+<h1 align="center">🔮 Esoteric Enderman</h1>
 
 <p align="center"><a href="https://www.github.com/EsotericEnderman"><img alt="My profile picture" src="Assets/Profile Picture.png" width="190" height="190"></a></p>
 
@@ -39,7 +39,7 @@
 
 <p align="center">📄 Check out my <b><a href="https://www.github.com/EsotericFoundation">organisation</a></b>!</p>
 
-## <p align="center">✉️ Contact</p>
+<h2 align="center">✉️ Contact</h2>
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 </div>
 
-## <p align="center">🔗 Links</p>
+<h2 align="center">🔗 Links</h2>
 
 <p align="center">
     <a href="https://www.github.com/EsotericEnderman"><img src="Assets/Badges/GitHub.svg" alt="GitHub"></a>
@@ -62,6 +62,6 @@
 
 ---
 
-### <p align="center">🤝 Friends</p>
+<h3 align="center">🤝 Friends</h3>
 
 <p align="center"><a href="https://github.com/rolyPolyVole"><img src="https://github.com/rolyPolyVole.png" width="45" height="45" alt="rolyPolyVole's profile picture"></a></p>
