@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td>⚙️</td>
-    <td><a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a></td>
+    <td><b><a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a></b></td>
   </tr>
   <tr>
     <td>🏗️</td>
