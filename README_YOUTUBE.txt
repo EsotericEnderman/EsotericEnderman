@@ -1,15 +1,15 @@
-Your local enderman, interested in 𝗺𝗮𝘁𝗵, 𝗰𝗼𝗱𝗶𝗻𝗴, and 𝘃𝗶𝗱𝗲𝗼 𝗴𝗮𝗺𝗲𝘀.
+Your local enderman, interested in math, coding, and video games.
 
-⚙️ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-My projects are linked in the 𝗹𝗶𝗻𝗸𝘀 section below.
+⚙️ Projects
+My projects are linked in the links section below.
 
-Unless stated otherwise, all of my software is licensed under the 𝗠𝗜𝗧 𝗹𝗶𝗰𝗲𝗻𝘀𝗲 and all other works are licensed under the 𝗖𝗖-𝗕𝗬-𝟰.𝟬 𝗹𝗶𝗰𝗲𝗻𝘀𝗲. Both licenses are linked in the 𝗹𝗶𝗻𝗸𝘀 section below.
+Unless stated otherwise, all of my software is licensed under the MIT license and all other works are licensed under the CC-BY-4.0 license. Both licenses are linked in the links section below.
 
-📄 Check out my 𝗼𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻 @ https://www.github.com/EsotericFoundation.
+📄 Check out my organisation @ https://www.github.com/EsotericFoundation.
 
-✉️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
-• 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: @esotericenderman
-• 𝗘𝗺𝗮𝗶𝗹: esotericenderman@gmail.com
+✉️ Contact
+• Discord: @esotericenderman
+• Email: esotericenderman@gmail.com
 
-🤝 𝗙𝗿𝗶𝗲𝗻𝗱𝘀
+🤝 Friends
 • @rolyPolyVole
