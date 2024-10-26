@@ -37,7 +37,7 @@
 
 <p align="center"><sup>Unless stated otherwise, all of my software is licensed under the <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
 
-<p align="center">📄 Check out my 👥 <b><a href="https://www.github.com/EsotericFoundation">organisation</a></b>!</p>
+<p align="center">📄 Check out my <b><a href="https://www.github.com/EsotericFoundation">organisation</a></b>!</p>
 
 ## <p align="center">✉️ Contact</p>
 
