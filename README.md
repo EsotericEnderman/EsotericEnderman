@@ -4,9 +4,7 @@
 
 <p align="center">🪄 Your local enderman, interested in 🧠 <b>math</b>, 💻 <b>coding</b>, and 🎮 <b>video games</b>.</p>
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <td>⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a></td>
   </tr>
@@ -29,8 +27,6 @@
     <td>📜 <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a></td>
   </tr>
 </table>
-
-</div>
 
 <p align="center"><sup>Unless stated otherwise, all of my software is licensed under the <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
 
