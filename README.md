@@ -6,14 +6,29 @@
 
 <div align="center">
 
-| ⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a>                                  |
-| :-------------------------------------------------------------------------------------------------------------- |
-| 🏗️ <a href="https://github.com/stars/EsotericEnderman/lists/work-in-progress">Work-in-progress</a>              |
-| 🔃 <a href="https://github.com/stars/EsotericEnderman/lists/maintained">Maintained</a>                          |
-| ⏳ <a href="https://github.com/stars/EsotericEnderman/lists/planned">Planned</a>                                |
-| ✅ <a href="https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=">Finished</a> |
-| 🏆 <a href="https://github.com/stars/EsotericEnderman/lists/contribution">Contributions</a>                     |
-| 📜 <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a>                            |
+<table>
+  <tr>
+    <td>⚙️ <a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a></td>
+  </tr>
+  <tr>
+    <td>🏗️ <a href="https://github.com/stars/EsotericEnderman/lists/work-in-progress">Work-in-progress</a></td>
+  </tr>
+  <tr>
+    <td>🔃 <a href="https://github.com/stars/EsotericEnderman/lists/maintained">Maintained</a></td>
+  </tr>
+  <tr>
+    <td>⏳ <a href="https://github.com/stars/EsotericEnderman/lists/planned">Planned</a></td>
+  </tr>
+  <tr>
+    <td>✅ <a href="https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=">Finished</a></td>
+  </tr>
+  <tr>
+    <td>🏆 <a href="https://github.com/stars/EsotericEnderman/lists/contribution">Contributions</a></td>
+  </tr>
+  <tr>
+    <td>📜 <a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a></td>
+  </tr>
+</table>
 
 </div>
 
