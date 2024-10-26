@@ -1,4 +1,4 @@
-🪄 Your local enderman, interested in 🧠 𝗺𝗮𝘁𝗵, 💻 𝗰𝗼𝗱𝗶𝗻𝗴, and 🎮 𝘃𝗶𝗱𝗲𝗼 𝗴𝗮𝗺𝗲𝘀.
+Your local enderman, interested in 𝗺𝗮𝘁𝗵, 𝗰𝗼𝗱𝗶𝗻𝗴, and 𝘃𝗶𝗱𝗲𝗼 𝗴𝗮𝗺𝗲𝘀.
 
 ⚙️ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 My projects are linked in the 𝗹𝗶𝗻𝗸𝘀 section below.

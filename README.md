@@ -1,8 +1,8 @@
-<h1 align="center">🔮 Esoteric Enderman</h1>
+<h1 align="center">Esoteric Enderman</h1>
 
 <p align="center"><a href="https://www.github.com/EsotericEnderman"><img alt="My profile picture" src="Assets/Profile Picture.png" width="190" height="190"></a></p>
 
-<p align="center">🪄 Your local enderman, interested in 🧠 <b>math</b>, 💻 <b>coding</b>, and 🎮 <b>video games</b>.</p>
+<p align="center">Your local enderman, interested in <b>math</b>, <b>coding</b>, and <b>video games</b>.</p>
 
 <table align="center">
   <tr>
@@ -37,9 +37,9 @@
 
 <p align="center"><sup>Unless stated otherwise, all of my software is licensed under the <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
 
-<p align="center">📄 Check out my <b><a href="https://www.github.com/EsotericFoundation">organisation</a></b>!</p>
+<p align="center">Check out my <b><a href="https://www.github.com/EsotericFoundation">organisation</a></b>!</p>
 
-<h2 align="center">✉️ Contact</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 </div>
 
-<h2 align="center">🔗 Links</h2>
+<h2 align="center">Links</h2>
 
 <p align="center">
     <a href="https://www.github.com/EsotericEnderman"><img src="Assets/Badges/GitHub.svg" alt="GitHub"></a>
@@ -62,6 +62,6 @@
 
 ---
 
-<h3 align="center">🤝 Friends</h3>
+<h3 align="center">Friends</h3>
 
 <p align="center"><a href="https://github.com/rolyPolyVole"><img src="https://github.com/rolyPolyVole.png" width="45" height="45" alt="rolyPolyVole's profile picture"></a></p>
