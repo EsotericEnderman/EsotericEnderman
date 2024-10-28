@@ -37,7 +37,7 @@ Check out my [b][url=https://www.github.com/EsotericFoundation]organisation[/url
 [table]
 [tr]
   [td][b]Discord[/b][/td]
-  [td]@esotericenderman[/td]
+  [td]esotericenderman[/td]
 [/tr]
 [tr]
   [td][b]Email[/b][/td]

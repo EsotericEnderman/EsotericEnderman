@@ -8,7 +8,7 @@ Unless stated otherwise, all of my software is licensed under the MIT license an
 📄 Check out my organisation @ https://www.github.com/EsotericFoundation.
 
 ✉️ Contact
-• Discord: @esotericenderman
+• Discord: esotericenderman
 • Email: esotericenderman@gmail.com
 
 🤝 Friends

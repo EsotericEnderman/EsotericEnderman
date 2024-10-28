@@ -41,7 +41,7 @@
 
 <div align="center">
 
-| <a href="https://www.discord.com/channels/@me"><img src="Assets/Badges/Discord.svg" alt="Discord"></a> | <code>@esotericenderman</code>          |
+| <a href="https://www.discord.com/channels/@me"><img src="Assets/Badges/Discord.svg" alt="Discord"></a> | <code>esotericenderman</code>          |
 | :----------------------------------------------------------------------------------------------------- | :-------------------------------------- |
 | <a href="https://www.gmail.com/"><img src="Assets/Badges/Email.svg" alt="Email"></a>                   | <code>esotericenderman@gmail.com</code> |
 
