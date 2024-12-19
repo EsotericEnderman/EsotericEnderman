@@ -2,9 +2,9 @@
 
 [img]https://www.github.com/EsotericEnderman.png[/img]
 
-Developer interested in [b]math[/b], [b]coding[/b], and [b]video games[/b].
-
 [url=https://enderman.dev]enderman.dev[/url]
+
+Developer interested in [b]math[/b], [b]coding[/b], and [b]video games[/b].
 
 Check out my [b][url=https://www.github.com/EsotericFoundation]organisation[/url][/b]!
 
