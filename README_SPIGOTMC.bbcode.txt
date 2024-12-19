@@ -6,30 +6,6 @@ Your local enderman, interested in [b]math[/b], [b]coding[/b], and [b]video game
 
 [url=https://enderman.dev]enderman.dev[/url]
 
-[table]
-[tr]
-  [td][url=https://github.com/EsotericEnderman?tab=repositories][b]Projects[/b][/url][/td]
-[/tr]
-[tr]
-  [td][url=https://github.com/stars/EsotericEnderman/lists/work-in-progress]Work-in-progress[/url][/td]
-[/tr]
-[tr]
-  [td][url=https://github.com/stars/EsotericEnderman/lists/maintained]Maintained[/url][/td]
-[/tr]
-[tr]
-  [td][url=https://github.com/stars/EsotericEnderman/lists/planned]Planned[/url][/td]
-[/tr]
-[tr]
-  [td][url=https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=]Finished[/url][/td]
-[/tr]
-[tr]
-  [td][url=https://github.com/stars/EsotericEnderman/lists/contribution]Contributions[/url][/td]
-[/tr]
-[tr]
-  [td][url=https://github.com/stars/EsotericEnderman/lists/abandoned]Abandoned[/url][/td]
-[/tr]
-[/table]
-
 Check out my [b][url=https://www.github.com/EsotericFoundation]organisation[/url][/b]!
 
 [b]Contact[/b]

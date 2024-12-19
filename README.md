@@ -6,37 +6,6 @@
 
 <p align="center">Your local enderman, interested in <b>math</b>, <b>coding</b>, and <b>video games</b>.</p>
 
-<table align="center">
-  <tr>
-    <td>⚙️</td>
-    <td><b><a href="https://github.com/EsotericEnderman?tab=repositories">Projects</a></b></td>
-  </tr>
-  <tr>
-    <td>🏗️</td>
-    <td><a href="https://github.com/stars/EsotericEnderman/lists/work-in-progress">Work-in-progress</a></td>
-  </tr>
-  <tr>
-    <td>🔃</td>
-    <td><a href="https://github.com/stars/EsotericEnderman/lists/maintained">Maintained</a></td>
-  </tr>
-  <tr>
-    <td>⏳</td>
-    <td><a href="https://github.com/stars/EsotericEnderman/lists/planned">Planned</a></td>
-  </tr>
-  <tr>
-    <td>✅</td>
-    <td><a href="https://github.com/EsotericEnderman?tab=repositories&q=&type=archived&language=&sort=">Finished</a></td>
-  </tr>
-  <tr>
-    <td>🏆</td>
-    <td><a href="https://github.com/stars/EsotericEnderman/lists/contribution">Contributions</a></td>
-  </tr>
-  <tr>
-    <td>📜</td>
-    <td><a href="https://github.com/stars/EsotericEnderman/lists/abandoned">Abandoned</a></td>
-  </tr>
-</table>
-
 <h2 align="center">Contact</h2>
 
 <div align="center">
