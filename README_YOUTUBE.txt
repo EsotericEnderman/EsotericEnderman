@@ -1,4 +1,4 @@
-Your local enderman, interested in math, coding, and video games.
+Developer interested in math, coding, and video games.
 
 https://enderman.dev
 

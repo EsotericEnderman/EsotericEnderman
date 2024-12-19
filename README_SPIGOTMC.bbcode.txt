@@ -2,7 +2,7 @@
 
 [img]https://www.github.com/EsotericEnderman.png[/img]
 
-Your local enderman, interested in [b]math[/b], [b]coding[/b], and [b]video games[/b].
+Developer interested in [b]math[/b], [b]coding[/b], and [b]video games[/b].
 
 [url=https://enderman.dev]enderman.dev[/url]
 
