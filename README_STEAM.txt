@@ -3,6 +3,7 @@ Developer interested in math, coding, and video games.
 https://enderman.dev
 
 ✉️ Contact
+
 • Discord: @esotericenderman
 • Email: esotericenderman@gmail.com
 
