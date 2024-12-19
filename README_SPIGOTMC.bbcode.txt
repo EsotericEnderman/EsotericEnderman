@@ -28,8 +28,6 @@ Your local enderman, interested in [b]math[/b], [b]coding[/b], and [b]video game
 [/tr]
 [/table]
 
-Unless stated otherwise, all of my software is licensed under the [url=https://github.com/EsotericEnderman/EsotericEnderman/blob/main/Assets/Licenses/MIT%20License.md]MIT license[/url] and all other works are licensed under the [url=https://github.com/EsotericEnderman/EsotericEnderman/blob/main/Assets/Licenses/CC-BY-4.0%20License.md]CC-BY-4.0 license[/url].
-
 Check out my [b][url=https://www.github.com/EsotericFoundation]organisation[/url][/b]!
 
 [b]Contact[/b]

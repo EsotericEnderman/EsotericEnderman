@@ -35,8 +35,6 @@
   </tr>
 </table>
 
-<p align="center"><sup>Unless stated otherwise, all of my software is licensed under the <a href="Assets/Licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="Assets/Licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
-
 <h2 align="center">Contact</h2>
 
 <div align="center">
